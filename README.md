@@ -1,5 +1,7 @@
 # hDC Host – Landing Page
 
+Acesse o projeto: https://v1tormiranda.github.io/hosting-landing-page/
+
 Projeto de estudos em front-end desenvolvido para prática de HTML e CSS.
 
 A aplicação consiste em uma landing page institucional para uma empresa fictícia de hospedagem, apresentando serviços, planos e informações de contato, com foco em layout e responsividade.
